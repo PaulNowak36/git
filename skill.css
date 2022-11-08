@@ -1,0 +1,106 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+/* article {
+    display: flex;
+}
+
+@media (max-width: 580px) {
+    article{
+        flex-direction: column;
+    }
+} */
+
+section {
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(141,239,151,1) 100%);
+    
+}
+
+p {
+    color: darkred;
+}
+
+h2 {
+    text-align: center;
+    padding-top: 0px;
+    font-family:'Times New Roman', Times, serif;
+    color: blueviolet;
+    border: solid 2px red;
+    width: 150px;
+    height: 50px;
+    margin: auto;
+}
+
+#Skill {
+    color: blue;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.italic span {
+    font-weight: bold;
+}
+table, th, td {
+    border: 3px solid blueviolet;
+    
+}
+
+img {
+    display: inline;
+    width: 150px;
+    height: 150px;
+    transition: transform .5s;
+}
+
+img:hover {
+    transform: rotateZ(20deg);
+}
+
+.imgGroup {
+    text-align: center;
+    padding: 10px;
+}
+
+.Linkedin {
+    border: solid 2px blue;
+    width: 120px;
+    text-align: center;
+    background-color: aqua;
+    border-radius: 20%;
+}
+
+.Linkedin h3{
+    color: rgb(71, 123, 226);
+
+}
+
+
+.chat {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #20cf31;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.chat a{
+    text-decoration: none;
+    color: fff;
+    font-size: 40px;
+
+}
+
+table {
+    margin: auto;
+    width: 200px;
+}

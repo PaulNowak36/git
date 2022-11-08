@@ -1,0 +1,48 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+
+section {
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(141,239,151,1) 100%);
+    
+}
+
+p {
+    color: darkred;
+}
+
+h2 {
+    text-align: center;
+    padding-top: 0px;
+    font-family:'Times New Roman', Times, serif;
+    color: blueviolet;
+    border: solid 2px red;
+    width: 150px;
+    height: 50px;
+    margin: auto;
+}
+
+img {
+    display: inline;
+    width: 150px;
+    height: 150px;
+    transition: transform .5s;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+
+}
+
+form .input {
+    padding: auto;
+}
+
+#message {
+    background-color: aquamarine;
+}
