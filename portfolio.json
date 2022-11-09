@@ -1,0 +1,66 @@
+{
+    "name":"Paul",
+    "Skills": [
+        {
+            "skill": "Pack Office",
+            "level":"90%"
+        },
+        {
+            "skill": "C/C++",
+            "level":"90%"
+        },
+        {
+            "skill": "HTML",
+            "level":"90%"
+        },
+        {
+            "skill": "CSS",
+            "level":"80%"
+        },
+        {
+            "skill": "JS",
+            "level":"40%"
+        },
+        {
+            "skill": "C#",
+            "level":"85%"
+        },
+        {
+            "skill": "Go",
+            "level":"65%"
+        },
+        {
+            "skill": "F#",
+            "level":"40%"
+        },
+        {
+            "skill": "Unity",
+            "level":"70%"
+        }
+
+    ],
+    "Languages": [
+        {
+            "language": "English",
+            "level":"B2"
+        },
+        {
+            "language": "Spanish",
+            "level":"B1"
+        },
+        {
+            "language": "Japanese",
+            "level":"A1"
+        }
+    ],
+    "Experiences": [
+        {
+            "company":"1Fogenie",
+            "years":0.25
+        },
+        {
+            "company":"Eurl Toulet",
+            "years":0.25
+        }
+    ]
+}

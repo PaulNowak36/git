@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Laurent",
+        "laptop":"Windows"
+    },
+    {
+        "name": "Paul",
+        "laptop":"Mac"
+    },
+    {
+        "name": "Alexis",
+        "laptop":"Windows"
+    },
+    {
+        "name": "Lucas",
+        "laptop":"Windows"
+    },
+    {
+        "name": "Victor",
+        "laptop":"Mac"
+    }
+]
